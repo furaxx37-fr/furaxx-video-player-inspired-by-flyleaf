@@ -1,6 +1,6 @@
-# Flyleaf Web Player
+# FuraXx Video Player Inspired by Flyleaf
 
-Custom web media player inspired by Flyleaf - HTML5 video player with advanced controls and modern UI.
+FuraXx video player inspired by flyleaf - HTML5 video player with advanced controls and modern UI.
 
 ## Features
 
